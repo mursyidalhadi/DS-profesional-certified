@@ -1,2 +1,2 @@
 # Sertifikasi Profesional Data Science
-![test](/IBM Data Science.jpg)
+[test](https://github.com/mursyidalhadi/Sertifikasi-Profesional-DS/blob/master/IBM%20Data%20Science.jpg)
