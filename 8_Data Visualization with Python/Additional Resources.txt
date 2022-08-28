@@ -1,0 +1,26 @@
+1. For more information about Dashboards, visit the following links:
+- https://pyviz.org/dashboarding/
+- https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map
+
+2. To learn more about using Plotly to create dashboards, explore
+- https://plotly.com/python/getting-started/
+- https://plotly.com/python-api-reference/
+
+Here are additional useful resources:
+- https://images.plot.ly/plotly-documentation/images/plotly_js_cheat_sheet.pdf
+- https://community.plotly.com/c/plotly-python/5
+- https://plotlygraphs.medium.com/
+- https://developer.ibm.com/exchanges/data/
+
+3. To learn more about Dash, explore
+- https://dash.plotly.com/
+- https://community.plotly.com/c/python/25
+- https://medium.com/plotly/tagged/dash
+
+To learn more about making interactive dashboards in Dash, visit
+- https://realpython.com/primer-on-python-decorators/
+- https://peps.python.org/pep-0318/#current-syntax
+- https://dash.plotly.com/basic-callbacks
+- https://dash.gallery/Portal/
+- https://community.plotly.com/t/community-components-index/60098
+
